@@ -1,0 +1,26 @@
+{
+  "name": "proxy-mn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesilverspoon/proxy-mn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesilverspoon/proxy-mn/issues"
+  },
+  "homepage": "https://github.com/thesilverspoon/proxy-mn#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}

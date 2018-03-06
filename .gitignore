@@ -1,0 +1,13 @@
+about-photos-component/
+menu-component/
+reservations-component/
+reviews-component/
+
+node_modules/
+review.css
+AboutStyles.css
+package-lock.json
+about.bundle.js
+menu.bundle.js
+reservation.bundle.js
+reviews.bundle.js
