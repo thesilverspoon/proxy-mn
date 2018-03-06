@@ -4,19 +4,19 @@ Project resembles a clone of Open Table:
 
 4 Primary Components Rendering:
 
-  1) About/Photos Component 
+  - About/Photos Component 
 
 https://github.com/thesilverspoon/about-photos-component
   
-  2) Reservations Component
+  - Reservations Component
 
 https://github.com/thesilverspoon/reservations-component
 
-  3) Menus Component
+  - Menus Component
 
 https://github.com/thesilverspoon/menu-component
 
-  4) Reviews Component
+  - Reviews Component
 
 https://github.com/thesilverspoon/reviews-component
 
